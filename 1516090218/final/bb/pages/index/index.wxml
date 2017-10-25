@@ -1,0 +1,45 @@
+<!--index.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">吸猫一族</view>
+        <view class="page__desc">放心我们会有猫的</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">布偶猫</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/fm/fm" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">布偶猫片</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入吸猫模式</view>
+            </navigator>
+            </view>
+            <view class="weui-cells__title">中华田园猫</view>
+            <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/qqweq/qqweq" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">中华田园猫片</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入吸猫模式</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">英国短毛猫</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">英国短毛猫片</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入吸猫模式</view>
+            </navigator>
+        </view>
+         <view class="weui-cells__title">暹罗猫</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">暹罗猫片</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入吸猫模式</view>
+            </navigator>
+        </view>
+         <view class="weui-cells__title">英国短毛猫</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">英国短毛猫片</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入吸猫模式</view>
+            </navigator>
+        </view>
+    </view>
+</view>
